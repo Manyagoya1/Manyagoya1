@@ -1,9 +1,8 @@
-## Hi, I am Manya Goyal
+# Hi, I'm Manya Goyal 👋
+🎓 B.Tech Student (1st Year)  
+📚 Branch: CSE (Cyber Security and Digital Forensics)
 
--B.Tech Student at VIT Bhopal University
--Interested in learning Programming and Web Development
--Currently learning new technologies and working on basic projects
-<!--
+I am currently learning the basics of programming and exploring different areas in technology. I hope to build strong problem-solving skills and gain practical knowledge that will help me grow in the field of computer science.
 **Manyagoya1/Manyagoya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
