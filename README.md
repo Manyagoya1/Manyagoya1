@@ -1,8 +1,8 @@
 ## Hi, I am Manya Goyal
 
-B.Tech Student at VIT Bhopal University
-Interested in learning Programming and Web Development
-Currently learning new technologies and working on basic projects
+-B.Tech Student at VIT Bhopal University
+-Interested in learning Programming and Web Development
+-Currently learning new technologies and working on basic projects
 <!--
 **Manyagoya1/Manyagoya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
